@@ -5,7 +5,7 @@ Welcome to our Android application. The app is part of the Open Sorce [Android A
 and adopts all licensing and community guidelines from this project. Please use the link in order to check out the corresponding repository.
 
 The mapview-location app shows **Google Maps** in a **MapView** and the coordinates of a user selected place.
-This process demands the **Permissions** of the **Location** and **Internet**.
+This process demands the **Permissions** of the **Location** and **Internet**. The application serves as an example of these features.
 
 ## Features
 The application requests necessary permissions right from the start. If the user allows the location and interent access, the current location gets marked on the map. 
