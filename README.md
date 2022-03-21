@@ -9,7 +9,9 @@ This process demands the **Permissions** of the **Location** and **Internet**. T
 
 ## Features
 The application requests necessary permissions right from the start. If the user allows the location and interent access, the current location gets marked on the map. 
-Clicking on the map marks the other places and reveals their latitude and longitude. The user can always return to the current location via a Button.
+Clicking on the map marks the other places and reveals their latitude and longitude. The user can always return to the current location via a Button. </br>
+
+![](demo_pictures/Screen1.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
